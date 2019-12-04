@@ -28,6 +28,7 @@ public class UserUtils {
         users.add(new User("James","james123",arrFavJames,arrJames,R.drawable.james));
         users.add(new User("Jessie","jessie123",arrFavJessie,arrJessie,R.drawable.jessie));
         users.add(new User("Brock","brock123",arrFavBrock,arrBrock,R.drawable.brock));
+
         return users;
     }
 }
