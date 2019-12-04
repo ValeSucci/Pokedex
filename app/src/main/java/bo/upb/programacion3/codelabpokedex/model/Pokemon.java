@@ -54,4 +54,8 @@ public class Pokemon {
     public void setType(String type) {
         this.type = type;
     }
+
+    public Pokemon getPokemon(){
+        return this;
+    }
 }
